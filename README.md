@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A Regressão Linear é uma técnica de análise de dados que usa matemática para encontrar as relações entre variável target e variáveis preditoras. Em seguida, essa relação é usada para prever o valor de um desses factores com base no outro. A previsão geralmente é um valor estimado a partir no que foi observado antes, o dataset em mão podemos criar um modelo preditivo que prevê as depespesas hospitalares.
+A Regressão Linear é uma técnica de análise de dados que usa matemática para encontrar as relações entre variável target e variáveis preditoras. Em seguida, essa relação é usada para prever o valor de um desses factores com base no outro. A previsão geralmente é um valor estimado a partir no que foi observado antes, o dataset em mão podemos criar um modelo preditivo que prevê as despesas hospitalares.
 
 ## Objectivos
 
